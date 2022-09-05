@@ -3,7 +3,7 @@
 #***************************************
 
 print("AN AMERICAN IMP MENAGERIE\n")
-print("A text adventure game by Tyler Wright (2002)\n")
+print("A text adventure game by Tyler Wright (2022)\n")
 
 print("""
 
